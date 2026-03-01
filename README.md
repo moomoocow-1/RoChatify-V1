@@ -14,6 +14,7 @@ RoChatify.Chat(Player, Message)
 When this function is called it checks if the message sent is safe then shows up the message above the players head for the set duration (Default 10 seconds)
 # 
 RoChatify.FilterMessage(Player, message)
+
 Check a message through the filter returns false if clean and true if not!
 
 
